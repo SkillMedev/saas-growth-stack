@@ -1,8 +1,8 @@
 # SaaS Growth Stack
 
-**Acquisition, activation, retention — the full SaaS growth toolkit.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For SaaS founders & growth leads: model, monetize, and retain — close funnel leaks.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-Everything you need to grow a SaaS product. Covers growth modeling, churn reduction, expansion revenue, customer success QBRs, product analytics, and unit economics.
+Reach for this when you're past product-market fit and need to turn a working SaaS into a compounding revenue machine — not chase one-off tactics. It hands you a growth model to see where the funnel leaks, product analytics to instrument and find them, churn-reduction to plug retention, and a pricing + unit-economics + expansion layer to make every retained account worth more. Pull it out for board-prep, a growth-strategy reset, or when CAC payback and churn are fighting your roadmap.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
