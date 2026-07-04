@@ -9,7 +9,7 @@ Reach for this when you're past product-market fit and need to turn a working Sa
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/saas-growth-stack](https://skillme.dev/pack/saas-growth-stack) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/saas-growth-stack`
+- **With the skills CLI:** `npx skills add SkillMedev/saas-growth-stack`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
